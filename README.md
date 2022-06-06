@@ -1,1 +1,1 @@
-# bigquery
+# bigquery - dbt fundamentals
